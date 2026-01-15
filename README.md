@@ -2755,8 +2755,5 @@ SOFTWARE.
 
 **© 2025 Open Source Project | Movie Recommendation Engine | MIT License**
 
-<br>
-
-[⬆ Back to Top](#)
 
 </div>
